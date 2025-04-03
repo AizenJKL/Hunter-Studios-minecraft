@@ -316,3 +316,17 @@
 [23:11:42] [Craft Scheduler Thread - 79 - AuraSkills/INFO]: [AuraSkills] Cannot look for updates: Request failed with status code 503
 [23:12:44] [Server thread/INFO]: Unknown item 'minecraft:x'
 [23:12:44] [Server thread/INFO]: ...stride7op xSoAizak<--[HERE]
+[23:13:28] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[23:14:29] [Server thread/INFO]: megastride777 issued server command: /tp xSoAizak megastride777
+[23:14:29] [Server thread/INFO]: [megastride777: Teleported xSoAizak to megastride777]
+[23:14:37] [Server thread/INFO]: xSoAizak was shot by Lvl 1 | Skeleton | ❤ 19/20
+[23:14:49] [Server thread/INFO]: megastride777 issued server command: /tp xSoAizak megastride777
+[23:14:49] [Server thread/INFO]: [megastride777: Teleported xSoAizak to megastride777]
+[23:16:44] [Server thread/INFO]: xSoAizak has made the advancement [Monster Hunter]
+[23:20:14] [Server thread/INFO]: xSoAizak has made the advancement [Acquire Hardware]
+[23:20:41] [Server thread/INFO]: xSoAizak has made the advancement [Isn't It Iron Pick]
+[23:21:04] [Server thread/INFO]: xSoAizak has made the advancement [Diamonds!]
+[23:21:08] [Server thread/INFO]: megastride777 has made the advancement [Diamonds!]
+[23:21:35] [Server thread/INFO]: xSoAizak issued server command: /skills claimitems
+[23:21:40] [Server thread/INFO]: xSoAizak issued server command: /skills rank
+[23:21:54] [Server thread/INFO]: xSoAizak issued server command: /skills

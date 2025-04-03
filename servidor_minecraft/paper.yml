@@ -33,10 +33,11 @@ timings:
   server-name: Unknown Server
 config-version: 27
 settings:
-  load-permissions-yml-before-plugins: true
-  use-display-name-in-quit-message: false
-  fix-entity-position-desync: true
   track-plugin-scoreboards: false
+  fix-entity-position-desync: true
+  use-display-name-in-quit-message: false
+  load-permissions-yml-before-plugins: true
+  enable-player-collisions: true
   save-empty-scoreboard-teams: false
   bungee-online-mode: true
   incoming-packet-spam-threshold: 300
@@ -57,7 +58,6 @@ settings:
   resolve-selectors-in-books: false
   max-joins-per-tick: 3
   region-file-cache-size: 256
-  enable-player-collisions: true
   log-player-ip-addresses: true
   console:
     enable-brigadier-highlighting: true
@@ -150,8 +150,8 @@ world-settings:
       shield-blocking-delay: 5
       nerf-pigmen-from-nether-portals: false
       disable-chest-cat-detection: false
-      disable-unloaded-chunk-enderpearl-exploit: true
       disable-relative-projectile-velocity: false
+      disable-unloaded-chunk-enderpearl-exploit: true
       disable-mob-spawner-spawn-egg-transformation: false
     prevent-moving-into-unloaded-chunks: false
     count-all-mobs-for-spawning: false
@@ -256,7 +256,6 @@ world-settings:
       immune-to-wither-effect:
         wither: true
         wither-skeleton: true
-    update-pathfinding-on-block-update: true
     phantoms-do-not-spawn-on-creative-players: true
     phantoms-only-attack-insomniacs: true
     mobs-can-always-pick-up-loot:
@@ -349,6 +348,7 @@ world-settings:
     auto-save-interval: -1
     generator-settings:
       flat-bedrock: false
+    update-pathfinding-on-block-update: true
     split-overstacked-loot: true
     entity-per-chunk-save-limit:
       experience_orb: -1

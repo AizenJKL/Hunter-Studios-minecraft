@@ -292,3 +292,7 @@
 [22:37:20] [Server thread/INFO]: ...stride777 sword<--[HERE]
 [22:37:36] [Server thread/INFO]: Unknown item 'minecraft:iron'
 [22:37:36] [Server thread/INFO]: ...stride777 iron sword<--[HERE]
+[22:43:07] [Server thread/INFO]: megastride777 issued server command: /gamemode creative
+[22:43:07] [Server thread/INFO]: [megastride777: Set own game mode to Creative Mode]
+[22:45:33] [Server thread/INFO]: megastride777 lost connection: Disconnected
+[22:45:33] [Server thread/INFO]: megastride777 left the game

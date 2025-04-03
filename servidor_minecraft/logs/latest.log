@@ -119,3 +119,131 @@
 [21:41:18] [Server thread/INFO]: megastride777 joined the game
 [21:41:18] [Server thread/INFO]: megastride777[/127.10.232.153:49791] logged in with entity id 131 at ([world]14.5, 87.0, -40.5)
 [21:41:40] [Server thread/INFO]: Made megastride777 a server operator
+[21:43:45] [Server thread/INFO]: megastride777 issued server command: /gamemode creative
+[21:43:45] [Server thread/INFO]: [megastride777: Set own game mode to Creative Mode]
+[21:43:51] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[21:43:51] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[21:43:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:43:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:43:51] [Server thread/INFO]: [AuraMobs] Disabling AuraMobs v2.1.0
+[21:43:51] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[21:43:51] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.2.8
+[21:43:51] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[21:43:51] [Server thread/INFO]: Loaded 7 recipes
+[21:43:52] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[21:43:52] [Server thread/INFO]: [AuraSkills] Loading AuraSkills v2.2.8
+[21:43:52] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[21:43:52] [Server thread/INFO]: [AuraMobs] Loading AuraMobs v2.1.0
+[21:43:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:43:52] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[21:43:52] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+[21:43:52] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[21:43:52] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.18.2[32;1m.[0;39m
+[21:43:52] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[21:43:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.6.1]
+[21:43:52] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
+[21:43:52] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+[21:43:52] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+[21:43:52] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[21:43:52] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[21:43:52] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.8
+[21:43:53] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[21:43:53] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: auraskills [2.2.8]
+[21:43:53] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: aureliumskills [2.2.8]
+[21:43:53] [Server thread/INFO]: [AuraSkills] Successfully registered hook PlaceholderAPI
+[21:43:53] [Server thread/INFO]: [AuraSkills] Loaded 151 config options in 16 ms
+[21:43:53] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_18_R2! Trying to find NMS support
+[21:43:53] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R2' loaded!
+[21:43:53] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[21:43:53] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[21:43:53] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[21:43:54] [Server thread/INFO]: [AuraMobs] Enabling AuraMobs v2.1.0
+[21:43:54] [Server thread/INFO]: [AuraMobs] Loaded 4 message files
+[21:43:54] [Server thread/INFO]: [AuraMobs] [ACF] Enabled Asynchronous Tab Completion Support!
+[21:43:54] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[21:43:54] [Server thread/INFO]: CONSOLE: Reload complete.
+[21:43:54] [Server thread/INFO]: Timings Reset
+[21:43:54] [Craft Scheduler Thread - 17 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21:43:54] [Craft Scheduler Thread - 17 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[21:43:54] [Craft Scheduler Thread - 17 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[21:43:54] [Craft Scheduler Thread - 17 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[21:43:54] [Craft Scheduler Thread - 17 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[21:43:54] [Craft Scheduler Thread - 17 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[21:43:54] [Craft Scheduler Thread - 17 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21:43:54] [Craft Scheduler Thread - 17 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
+[21:43:54] [Craft Scheduler Thread - 17 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
+[21:43:54] [Craft Scheduler Thread - 17 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[21:43:54] [Craft Scheduler Thread - 17 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21:43:54] [Craft Scheduler Thread - 17 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[21:43:54] [Craft Scheduler Thread - 17 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[21:43:54] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 287 total sources
+[21:43:54] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[21:43:54] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[21:43:54] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[21:43:54] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[21:43:54] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[21:45:00] [Server thread/INFO]: Set megastride777's game mode to Survival Mode
+[21:45:20] [Server thread/INFO]: Set megastride777's game mode to Creative Mode
+[21:45:28] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[21:45:28] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[21:45:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:45:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:45:28] [Server thread/INFO]: [AuraMobs] Disabling AuraMobs v2.1.0
+[21:45:28] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[21:45:28] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.2.8
+[21:45:28] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[21:45:29] [Server thread/INFO]: Loaded 7 recipes
+[21:45:29] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[21:45:29] [Server thread/INFO]: [AuraSkills] Loading AuraSkills v2.2.8
+[21:45:29] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[21:45:29] [Server thread/INFO]: [AuraMobs] Loading AuraMobs v2.1.0
+[21:45:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:45:29] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[21:45:29] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+[21:45:29] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[21:45:29] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.18.2[32;1m.[0;39m
+[21:45:30] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[21:45:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.6.1]
+[21:45:30] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
+[21:45:30] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+[21:45:30] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+[21:45:30] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[21:45:30] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[21:45:30] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.8
+[21:45:30] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[21:45:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: auraskills [2.2.8]
+[21:45:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: aureliumskills [2.2.8]
+[21:45:30] [Server thread/INFO]: [AuraSkills] Successfully registered hook PlaceholderAPI
+[21:45:30] [Server thread/INFO]: [AuraSkills] Loaded 151 config options in 8 ms
+[21:45:30] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_18_R2! Trying to find NMS support
+[21:45:30] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R2' loaded!
+[21:45:30] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[21:45:30] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[21:45:30] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[21:45:31] [Server thread/INFO]: [AuraMobs] Enabling AuraMobs v2.1.0
+[21:45:31] [Server thread/INFO]: [AuraMobs] Loaded 4 message files
+[21:45:31] [Server thread/INFO]: [AuraMobs] [ACF] Enabled Asynchronous Tab Completion Support!
+[21:45:31] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[21:45:31] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[21:45:31] [Server thread/INFO]: CONSOLE: Reload complete.
+[21:45:31] [Server thread/INFO]: Timings Reset
+[21:45:31] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 287 total sources
+[21:45:31] [Craft Scheduler Thread - 22 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21:45:31] [Craft Scheduler Thread - 22 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[21:45:31] [Craft Scheduler Thread - 22 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[21:45:31] [Craft Scheduler Thread - 22 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[21:45:31] [Craft Scheduler Thread - 22 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[21:45:31] [Craft Scheduler Thread - 22 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[21:45:31] [Craft Scheduler Thread - 22 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21:45:31] [Craft Scheduler Thread - 22 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
+[21:45:31] [Craft Scheduler Thread - 22 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
+[21:45:31] [Craft Scheduler Thread - 22 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[21:45:31] [Craft Scheduler Thread - 22 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21:45:31] [Craft Scheduler Thread - 22 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[21:45:31] [Craft Scheduler Thread - 22 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[21:45:31] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[21:45:31] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[21:45:31] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[21:45:31] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[21:45:47] [Server thread/INFO]: Plugins (4): AuraMobs, AuraSkills, PlaceholderAPI, SkinsRestorer
+[21:50:48] [Server thread/INFO]: Set megastride777's game mode to Survival Mode

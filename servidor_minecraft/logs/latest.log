@@ -247,3 +247,19 @@
 [21:45:31] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
 [21:45:47] [Server thread/INFO]: Plugins (4): AuraMobs, AuraSkills, PlaceholderAPI, SkinsRestorer
 [21:50:48] [Server thread/INFO]: Set megastride777's game mode to Survival Mode
+[21:56:40] [User Authenticator #2/INFO]: UUID of player CranwberryPower is 52b6c73b-0d35-3522-adb8-84f538abbf0d
+[21:56:40] [Server thread/INFO]: CranwberryPower joined the game
+[21:56:40] [Server thread/INFO]: CranwberryPower[/127.133.79.236:35409] logged in with entity id 9142 at ([world]25.5, 88.0, -39.5)
+[21:57:25] [Server thread/INFO]: megastride777 issued server command: /tp CranwberryPower megastride777
+[21:57:25] [Server thread/INFO]: [megastride777: Teleported CranwberryPower to megastride777]
+[21:57:45] [Server thread/INFO]: CranwberryPower issued server command: /skin
+[21:57:58] [Server thread/INFO]: CranwberryPower issued server command: /skin random
+[21:58:07] [Server thread/INFO]: CranwberryPower lost connection: Disconnected
+[21:58:07] [Server thread/INFO]: CranwberryPower left the game
+[21:59:40] [Server thread/INFO]: megastride777 lost connection: Disconnected
+[21:59:40] [Server thread/INFO]: megastride777 left the game
+[22:01:37] [User Authenticator #3/INFO]: UUID of player CranwberryPower is 52b6c73b-0d35-3522-adb8-84f538abbf0d
+[22:01:37] [Server thread/INFO]: CranwberryPower joined the game
+[22:01:37] [Server thread/INFO]: CranwberryPower[/127.133.79.236:48221] logged in with entity id 9696 at ([world]1217.9701251501826, 85.9375, -1520.9897980727108)
+[22:01:53] [Server thread/INFO]: CranwberryPower issued server command: /skin random
+[22:02:06] [Server thread/INFO]: CranwberryPower issued server command: /skin random

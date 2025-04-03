@@ -296,3 +296,13 @@
 [22:43:07] [Server thread/INFO]: [megastride777: Set own game mode to Creative Mode]
 [22:45:33] [Server thread/INFO]: megastride777 lost connection: Disconnected
 [22:45:33] [Server thread/INFO]: megastride777 left the game
+[22:56:35] [User Authenticator #5/INFO]: UUID of player xSoAizak is 623c874b-6d89-356a-a9c3-87b66d03fb8d
+[22:56:35] [Server thread/INFO]: xSoAizak joined the game
+[22:56:35] [Server thread/INFO]: xSoAizak[/127.221.130.119:34117] logged in with entity id 16559 at ([world]26.5, 89.0, -22.5)
+[22:57:01] [Server thread/INFO]: xSoAizak was slain by Lvl 1 | Zombie | ❤ 20/20
+[22:57:03] [Server thread/INFO]: xSoAizak lost connection: Timed out
+[22:57:03] [Server thread/INFO]: xSoAizak left the game
+[22:58:45] [User Authenticator #6/INFO]: UUID of player xSoAizak is 623c874b-6d89-356a-a9c3-87b66d03fb8d
+[22:58:45] [Server thread/INFO]: xSoAizak joined the game
+[22:58:45] [Server thread/INFO]: xSoAizak[/127.221.130.119:50971] logged in with entity id 16694 at ([world]26.5, 89.0, -22.5)
+[23:00:50] [Server thread/INFO]: xSoAizak was slain by Lvl 1 | Zombie | ❤ 20/20

@@ -1,19 +1,7 @@
 {
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+  "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
-      "has_stone": "2025-04-03 21:46:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-04-03 21:46:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-04-03 21:46:20 +0000"
+      "has_planks": "2025-04-03 22:38:07 +0000"
     },
     "done": true
   },
@@ -29,17 +17,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-04-03 22:38:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-04-03 22:21:54 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
-      "minecraft:skeleton": "2025-04-03 22:21:54 +0000"
+      "has_planks": "2025-04-03 22:38:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
@@ -59,21 +53,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
-      "bread": "2025-04-03 21:53:46 +0000"
+      "has_planks": "2025-04-03 22:38:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-04-03 21:50:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-04-03 21:45:37 +0000"
     },
     "done": true
   },
@@ -83,9 +71,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_stone": "2025-04-03 21:46:29 +0000"
+      "has_water_bucket": "2025-04-03 22:36:16 +0000"
     },
     "done": true
   },
@@ -102,12 +90,6 @@
       "minecraft:savanna": "2025-04-03 21:50:37 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-04-03 22:21:56 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/misc/book": {
     "criteria": {
@@ -163,15 +145,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_stone": "2025-04-03 21:46:29 +0000"
+      "has_lots_of_items": "2025-04-03 22:33:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_paper": "2025-04-03 21:51:10 +0000"
+      "has_stone": "2025-04-03 21:46:29 +0000"
     },
     "done": true
   },
@@ -181,9 +163,9 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/decorations/barrel": {
     "criteria": {
-      "crafting_table": "2025-04-03 21:53:23 +0000"
+      "has_planks": "2025-04-03 22:38:07 +0000"
     },
     "done": true
   },
@@ -193,15 +175,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_button": {
+  "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
-      "has_stone": "2025-04-03 21:46:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-04-03 21:46:20 +0000"
+      "has_planks": "2025-04-03 22:38:07 +0000"
     },
     "done": true
   },
@@ -214,6 +190,18 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-04-03 21:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-04-03 22:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-03 22:38:07 +0000"
     },
     "done": true
   },
@@ -242,6 +230,96 @@
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-03 21:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-03 21:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-03 21:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-03 21:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-04-03 22:21:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-04-03 22:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-04-03 21:53:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-03 22:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-03 21:45:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-04-03 21:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-03 22:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-03 21:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-03 21:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-04-03 21:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-03 22:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-03 21:46:20 +0000"
     },

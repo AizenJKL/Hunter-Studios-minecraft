@@ -33,8 +33,10 @@ timings:
   server-name: Unknown Server
 config-version: 27
 settings:
-  region-file-cache-size: 256
-  enable-player-collisions: true
+  load-permissions-yml-before-plugins: true
+  use-display-name-in-quit-message: false
+  fix-entity-position-desync: true
+  track-plugin-scoreboards: false
   save-empty-scoreboard-teams: false
   bungee-online-mode: true
   incoming-packet-spam-threshold: 300
@@ -54,10 +56,8 @@ settings:
   proxy-protocol: false
   resolve-selectors-in-books: false
   max-joins-per-tick: 3
-  track-plugin-scoreboards: false
-  fix-entity-position-desync: true
-  use-display-name-in-quit-message: false
-  load-permissions-yml-before-plugins: true
+  region-file-cache-size: 256
+  enable-player-collisions: true
   log-player-ip-addresses: true
   console:
     enable-brigadier-highlighting: true
@@ -125,6 +125,7 @@ world-settings:
   default:
     disable-teleportation-suffocation-check: false
     delay-chunk-unloads-by: 10s
+    ender-dragons-death-always-places-dragon-egg: false
     piglins-guard-chests: true
     should-remove-dragon: false
     max-auto-save-chunks-per-tick: 24
@@ -224,7 +225,6 @@ world-settings:
         minimum: 50.0
       slime-chunk:
         maximum: 40.0
-    ender-dragons-death-always-places-dragon-egg: false
     frosted-ice:
       enabled: true
       delay:
@@ -270,6 +270,7 @@ world-settings:
           hide-itemmeta: false
           hide-durability: false
     monster-spawn-max-light-level: -1
+    container-update-tick-rate: 1
     anti-xray:
       enabled: false
       engine-mode: 1
@@ -312,7 +313,6 @@ world-settings:
     nether-ceiling-void-damage-height: 0
     only-players-collide: false
     allow-vehicle-collisions: true
-    container-update-tick-rate: 1
     allow-non-player-entities-on-scoreboards: false
     portal-search-radius: 128
     portal-create-radius: 16
@@ -327,8 +327,8 @@ world-settings:
     fixed-chunk-inhabited-time: -1
     prevent-tnt-from-moving-in-water: false
     spawner-nerfed-mobs-should-jump: false
-    iron-golems-can-spawn-in-air: false
     show-sign-click-command-failure-msgs-to-player: false
+    iron-golems-can-spawn-in-air: false
     max-leash-distance: 10.0
     armor-stands-tick: true
     non-player-arrow-despawn-rate: -1

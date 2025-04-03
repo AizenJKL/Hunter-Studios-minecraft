@@ -330,3 +330,16 @@
 [23:21:35] [Server thread/INFO]: xSoAizak issued server command: /skills claimitems
 [23:21:40] [Server thread/INFO]: xSoAizak issued server command: /skills rank
 [23:21:54] [Server thread/INFO]: xSoAizak issued server command: /skills
+[23:25:02] [User Authenticator #8/INFO]: UUID of player CranwberryPower is 52b6c73b-0d35-3522-adb8-84f538abbf0d
+[23:25:02] [Server thread/INFO]: CranwberryPower joined the game
+[23:25:02] [Server thread/INFO]: CranwberryPower[/127.133.79.236:56031] logged in with entity id 21156 at ([world]1315.1733245390972, 70.0, -1538.5181949368646)
+[23:25:15] [Server thread/INFO]: CranwberryPower issued server command: /skin
+[23:25:28] [Server thread/INFO]: CranwberryPower issued server command: /skin url https://namemc.com/skin/2991aa83d0f8855b
+[23:28:34] [Server thread/INFO]: CranwberryPower has made the advancement [Stone Age]
+[23:29:12] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 CranwberryPower
+[23:29:12] [Server thread/INFO]: [megastride777: Teleported megastride777 to CranwberryPower]
+[23:29:13] [Server thread/INFO]: CranwberryPower has made the advancement [Getting an Upgrade]
+[23:29:54] [Server thread/INFO]: CranwberryPower has made the advancement [Isn't It Iron Pick]
+[23:31:19] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 aizak
+[23:31:28] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 xSoAizak
+[23:31:28] [Server thread/INFO]: [megastride777: Teleported megastride777 to xSoAizak]

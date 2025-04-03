@@ -29,3 +29,13 @@
 [15:26:58] [Server thread/INFO]: Done (17.078s)! For help, type "help"
 [15:26:58] [Server thread/INFO]: Timings Reset
 [15:26:58] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[15:49:59] [User Authenticator #0/INFO]: UUID of player xSoAizak is 623c874b-6d89-356a-a9c3-87b66d03fb8d
+[15:49:59] [Server thread/INFO]: xSoAizak joined the game
+[15:49:59] [Server thread/INFO]: xSoAizak[/127.149.249.116:51713] logged in with entity id 382 at ([world]23.5, 70.0, -44.5)
+[15:50:29] [Server thread/INFO]: xSoAizak lost connection: Timed out
+[15:50:29] [Server thread/INFO]: xSoAizak left the game
+[15:52:03] [User Authenticator #1/INFO]: UUID of player xSoAizak is 623c874b-6d89-356a-a9c3-87b66d03fb8d
+[15:52:04] [Server thread/INFO]: xSoAizak joined the game
+[15:52:04] [Server thread/INFO]: xSoAizak[/127.149.249.116:36459] logged in with entity id 549 at ([world]23.5, 70.0, -44.5)
+[15:53:17] [Server thread/INFO]: xSoAizak lost connection: Disconnected
+[15:53:17] [Server thread/INFO]: xSoAizak left the game

@@ -306,3 +306,13 @@
 [22:58:45] [Server thread/INFO]: xSoAizak joined the game
 [22:58:45] [Server thread/INFO]: xSoAizak[/127.221.130.119:50971] logged in with entity id 16694 at ([world]26.5, 89.0, -22.5)
 [23:00:50] [Server thread/INFO]: xSoAizak was slain by Lvl 1 | Zombie | ❤ 20/20
+[23:03:56] [Server thread/INFO]: xSoAizak issued server command: /ping
+[23:05:28] [Server thread/INFO]: xSoAizak has made the advancement [Stone Age]
+[23:07:16] [Server thread/INFO]: xSoAizak has made the advancement [Getting an Upgrade]
+[23:10:26] [Server thread/INFO]: xSoAizak issued server command: /skills
+[23:11:40] [User Authenticator #7/INFO]: UUID of player megastride777 is d2185c18-4d27-398d-bbaf-20c960d2869f
+[23:11:40] [Server thread/INFO]: megastride777 joined the game
+[23:11:40] [Server thread/INFO]: megastride777[/127.10.232.153:57283] logged in with entity id 19227 at ([world]1285.6090562551828, -32.1300255577595, -1518.3376454577797)
+[23:11:42] [Craft Scheduler Thread - 79 - AuraSkills/INFO]: [AuraSkills] Cannot look for updates: Request failed with status code 503
+[23:12:44] [Server thread/INFO]: Unknown item 'minecraft:x'
+[23:12:44] [Server thread/INFO]: ...stride7op xSoAizak<--[HERE]

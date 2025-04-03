@@ -1,67 +1,121 @@
-[16:50:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:50:43] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[16:50:45] [Worker-Main-1/INFO]: Loaded 7 recipes
-[16:50:46] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[16:50:46] [Server thread/INFO]: Loading properties
-[16:50:46] [Server thread/INFO]: This server is running Paper version git-Paper-388 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: fc9ee65 on ver/1.18.2)
-[16:50:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:50:46] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:50:46] [Server thread/INFO]: Default game type: SURVIVAL
-[16:50:46] [Server thread/INFO]: Generating keypair
-[16:50:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:50:46] [Server thread/INFO]: Using epoll channel type
-[16:50:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[16:50:46] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[16:50:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:50:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:50:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:50:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:50:46] [Server thread/INFO]: Preparing level "world"
-[16:50:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:50:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:50:56] [Server thread/INFO]: Time elapsed: 415 ms
-[16:50:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:50:56] [Server thread/INFO]: Time elapsed: 328 ms
-[16:50:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:50:57] [Server thread/INFO]: Time elapsed: 201 ms
-[16:50:57] [Server thread/INFO]: Running delayed init tasks
-[16:50:57] [Server thread/INFO]: Done (10.595s)! For help, type "help"
-[16:50:57] [Server thread/INFO]: Timings Reset
-[16:52:40] [User Authenticator #1/INFO]: UUID of player xSoAizak is 623c874b-6d89-356a-a9c3-87b66d03fb8d
-[16:52:41] [Server thread/INFO]: xSoAizak joined the game
-[16:52:41] [Server thread/INFO]: xSoAizak[/127.149.249.116:34529] logged in with entity id 490 at ([world]4.5, 68.0, -32.5)
-[17:03:17] [Server thread/INFO]: xSoAizak was slain by Zombie
-[17:03:34] [Server thread/INFO]: Made xSoAizak a server operator
-[17:03:39] [Server thread/INFO]: xSoAizak issued server command: /gaemode
-[17:03:44] [Server thread/INFO]: xSoAizak issued server command: /reload
-[17:03:44] [Server thread/INFO]: xSoAizak: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[17:03:51] [Server thread/INFO]: xSoAizak issued server command: /reload confirm
-[17:03:51] [Server thread/INFO]: xSoAizak: Please note that this command is not supported and may cause issues when using some plugins.
-[17:03:51] [Server thread/INFO]: xSoAizak: If you encounter any issues please use the /stop command to restart your server.
-[17:03:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:03:51] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:03:52] [Server thread/INFO]: Loaded 7 recipes
-[17:03:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:03:52] [Server thread/INFO]: xSoAizak: Reload complete.
-[17:03:52] [Server thread/INFO]: Timings Reset
-[17:04:07] [Server thread/INFO]: xSoAizak issued server command: /plugins
-[17:06:42] [Server thread/INFO]: xSoAizak issued server command: /gamemode 1
-[17:06:46] [Server thread/INFO]: xSoAizak issued server command: /gamemode creative
-[17:06:46] [Server thread/INFO]: [xSoAizak: Set own game mode to Creative Mode]
-[17:08:44] [Server thread/INFO]: xSoAizak has made the advancement [Acquire Hardware]
-[17:15:44] [Server thread/INFO]: Stopping the server
-[17:15:44] [Server thread/INFO]: Stopping server
-[17:15:44] [Server thread/INFO]: Saving players
-[17:15:44] [Server thread/INFO]: xSoAizak lost connection: Server closed
-[17:15:44] [Server thread/INFO]: xSoAizak left the game
-[17:15:45] [Server thread/INFO]: Saving worlds
-[17:15:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:15:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:15:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:15:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:15:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:15:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:15:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:15:48] [Server thread/INFO]: Flushing Chunk IO
-[17:15:48] [Server thread/INFO]: Closing Thread Pool
-[17:15:48] [Server thread/INFO]: Closing Server
+[21:32:17] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:32:19] [Worker-Main-1/INFO]: Loaded 7 recipes
+[21:32:20] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[21:32:20] [Server thread/INFO]: Loading properties
+[21:32:20] [Server thread/INFO]: This server is running Paper version git-Paper-388 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: fc9ee65 on ver/1.18.2)
+[21:32:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:32:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:32:20] [Server thread/INFO]: Default game type: SURVIVAL
+[21:32:20] [Server thread/INFO]: Generating keypair
+[21:32:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:32:20] [Server thread/INFO]: Using epoll channel type
+[21:32:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:32:20] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:32:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:32:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:32:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:32:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:32:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:32:21] [Server thread/INFO]: Preparing level "world"
+[21:32:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:32:25] [Server thread/INFO]: Time elapsed: 339 ms
+[21:32:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:32:25] [Server thread/INFO]: Time elapsed: 134 ms
+[21:32:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:32:25] [Server thread/INFO]: Time elapsed: 157 ms
+[21:32:25] [Server thread/INFO]: Running delayed init tasks
+[21:32:25] [Server thread/INFO]: Done (5.205s)! For help, type "help"
+[21:32:25] [Server thread/INFO]: Timings Reset
+[21:32:50] [Server thread/INFO]: Plugins (0): 
+[21:33:18] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[21:33:23] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[21:33:23] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[21:33:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:33:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:33:23] [Server thread/INFO]: Loaded 7 recipes
+[21:33:24] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[21:33:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:33:24] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[21:33:24] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[21:33:25] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.18.2[32;1m.[0;39m
+[21:33:25] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[21:33:25] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+[21:33:25] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+[21:33:25] [Server thread/INFO]: CONSOLE: Reload complete.
+[21:33:25] [Server thread/INFO]: Timings Reset
+[21:33:26] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21:33:26] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[21:33:26] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[21:33:26] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[21:33:26] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[21:33:26] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[21:33:26] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21:33:26] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
+[21:33:26] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
+[21:33:26] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[21:33:26] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21:33:26] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[21:33:26] [Craft Scheduler Thread - 6 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[21:35:19] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[21:35:21] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[21:35:21] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[21:35:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:35:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:35:21] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[21:35:21] [Server thread/INFO]: Loaded 7 recipes
+[21:35:21] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[21:35:21] [Server thread/INFO]: [AuraSkills] Loading AuraSkills v2.2.8
+[21:35:21] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[21:35:21] [Server thread/INFO]: [AuraMobs] Loading AuraMobs v2.1.0
+[21:35:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:35:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[21:35:21] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+[21:35:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[21:35:22] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.18.2[32;1m.[0;39m
+[21:35:22] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[21:35:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.6.1]
+[21:35:22] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
+[21:35:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+[21:35:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+[21:35:22] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[21:35:22] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[21:35:22] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.8
+[21:35:23] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[21:35:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: auraskills [2.2.8]
+[21:35:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: aureliumskills [2.2.8]
+[21:35:23] [Server thread/INFO]: [AuraSkills] Successfully registered hook PlaceholderAPI
+[21:35:23] [Server thread/INFO]: [AuraSkills] Loaded 151 config options in 20 ms
+[21:35:23] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_18_R2! Trying to find NMS support
+[21:35:23] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R2' loaded!
+[21:35:23] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[21:35:23] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[21:35:23] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[21:35:24] [Server thread/INFO]: [AuraMobs] Enabling AuraMobs v2.1.0
+[21:35:24] [Server thread/INFO]: [AuraMobs] Loaded 4 message files
+[21:35:24] [Server thread/INFO]: [AuraMobs] [ACF] Enabled Asynchronous Tab Completion Support!
+[21:35:24] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[21:35:24] [Server thread/INFO]: CONSOLE: Reload complete.
+[21:35:24] [Server thread/INFO]: Timings Reset
+[21:35:24] [Craft Scheduler Thread - 9 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21:35:24] [Craft Scheduler Thread - 9 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[21:35:24] [Craft Scheduler Thread - 9 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[21:35:24] [Craft Scheduler Thread - 9 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[21:35:24] [Craft Scheduler Thread - 9 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[21:35:24] [Craft Scheduler Thread - 9 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[21:35:24] [Craft Scheduler Thread - 9 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21:35:24] [Craft Scheduler Thread - 9 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
+[21:35:24] [Craft Scheduler Thread - 9 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
+[21:35:24] [Craft Scheduler Thread - 9 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[21:35:24] [Craft Scheduler Thread - 9 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21:35:24] [Craft Scheduler Thread - 9 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[21:35:24] [Craft Scheduler Thread - 9 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[21:35:24] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 287 total sources
+[21:35:24] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[21:35:24] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[21:35:24] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[21:35:25] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[21:35:25] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[21:41:18] [User Authenticator #1/INFO]: UUID of player megastride777 is d2185c18-4d27-398d-bbaf-20c960d2869f
+[21:41:18] [Server thread/INFO]: megastride777 joined the game
+[21:41:18] [Server thread/INFO]: megastride777[/127.10.232.153:49791] logged in with entity id 131 at ([world]14.5, 87.0, -40.5)
+[21:41:40] [Server thread/INFO]: Made megastride777 a server operator

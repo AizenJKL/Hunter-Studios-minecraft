@@ -33,10 +33,12 @@ timings:
   server-name: Unknown Server
 config-version: 27
 settings:
+  max-joins-per-tick: 3
   track-plugin-scoreboards: false
   fix-entity-position-desync: true
   use-display-name-in-quit-message: false
   load-permissions-yml-before-plugins: true
+  region-file-cache-size: 256
   enable-player-collisions: true
   save-empty-scoreboard-teams: false
   bungee-online-mode: true
@@ -56,8 +58,6 @@ settings:
   use-dimension-type-for-custom-spawners: false
   proxy-protocol: false
   resolve-selectors-in-books: false
-  max-joins-per-tick: 3
-  region-file-cache-size: 256
   log-player-ip-addresses: true
   console:
     enable-brigadier-highlighting: true
@@ -150,8 +150,8 @@ world-settings:
       shield-blocking-delay: 5
       nerf-pigmen-from-nether-portals: false
       disable-chest-cat-detection: false
-      disable-relative-projectile-velocity: false
       disable-unloaded-chunk-enderpearl-exploit: true
+      disable-relative-projectile-velocity: false
       disable-mob-spawner-spawn-egg-transformation: false
     prevent-moving-into-unloaded-chunks: false
     count-all-mobs-for-spawning: false
@@ -269,7 +269,6 @@ world-settings:
           hide-itemmeta: false
           hide-durability: false
     monster-spawn-max-light-level: -1
-    container-update-tick-rate: 1
     anti-xray:
       enabled: false
       engine-mode: 1
@@ -312,6 +311,7 @@ world-settings:
     nether-ceiling-void-damage-height: 0
     only-players-collide: false
     allow-vehicle-collisions: true
+    container-update-tick-rate: 1
     allow-non-player-entities-on-scoreboards: false
     portal-search-radius: 128
     portal-create-radius: 16

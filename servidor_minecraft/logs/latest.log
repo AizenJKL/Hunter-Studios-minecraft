@@ -131,3 +131,122 @@
 [15:25:50] [Server thread/INFO]: 0 placeholder hook(s) registered!
 [15:25:50] [Server thread/INFO]: Done (14.978s)! For help, type "help"
 [15:25:50] [Server thread/INFO]: Timings Reset
+[15:50:43] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[15:50:43] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[15:50:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:50:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:50:43] [Server thread/INFO]: [AuraMobs] Disabling AuraMobs v2.1.0
+[15:50:43] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.1
+[15:50:43] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.2.8
+[15:50:43] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[15:50:43] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0
+[15:50:43] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[15:50:43] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
+[15:50:43] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[15:50:43] [Server thread/INFO]: [LuckPerms] Closing storage...
+[15:50:43] [Server thread/INFO]: [LuckPerms] Goodbye!
+[15:50:43] [Server thread/INFO]: Loaded 7 recipes
+[15:50:44] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.158
+[15:50:44] [Server thread/INFO]: [Essentials] Loading Essentials v2.21.0
+[15:50:44] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[15:50:44] [Server thread/INFO]: [AuraSkills] Loading AuraSkills v2.2.8
+[15:50:44] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
+[15:50:44] [Server thread/INFO]: [AuraMobs] Loading AuraMobs v2.1.0
+[15:50:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:50:44] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.158
+[15:50:45] [Server thread/INFO]:         __    
+[15:50:45] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.158
+[15:50:45] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[15:50:45] [Server thread/INFO]: 
+[15:50:45] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[15:50:45] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[15:50:45] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[15:50:45] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[15:50:45] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 763ms)
+[15:50:45] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[15:50:45] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+[15:50:45] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[15:50:46] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.18.2[32;1m.[0;39m
+[15:50:46] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[15:50:46] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.6.1]
+[15:50:46] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
+[15:50:46] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+[15:50:46] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+[15:50:46] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0
+[15:50:46] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[15:50:46] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[15:50:46] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[15:50:46] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[15:50:46] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[15:50:46] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected Legacy Damage Event Provider as the provider for DamageEventProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[15:50:46] [Server thread/INFO]: [Essentials] No provider found for BiomeKeyProvider, but it is nullable
+[15:50:46] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected 1.9-1.20.4 Potion Meta Provider as the provider for PotionMetaProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[15:50:46] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[15:50:46] [Server thread/INFO]: [Essentials] Using locale es
+[15:50:46] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:50:46] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[15:50:46] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[15:50:46] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[15:50:46] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[15:50:46] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[15:50:47] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[15:50:47] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.8
+[15:50:47] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[15:50:47] [Server thread/INFO]: [AuraSkills] Successfully registered hook LuckPerms
+[15:50:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: auraskills [2.2.8]
+[15:50:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: aureliumskills [2.2.8]
+[15:50:47] [Server thread/INFO]: [AuraSkills] Successfully registered hook PlaceholderAPI
+[15:50:47] [Server thread/INFO]: [AuraSkills] Loaded 151 config options in 15 ms
+[15:50:47] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_18_R2! Trying to find NMS support
+[15:50:47] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R2' loaded!
+[15:50:47] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[15:50:47] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[15:50:47] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:50:48] [Server thread/INFO]: [AuraMobs] Enabling AuraMobs v2.1.0
+[15:50:48] [Server thread/INFO]: [AuraMobs] Loaded 4 message files
+[15:50:48] [Server thread/INFO]: [AuraMobs] [ACF] Enabled Asynchronous Tab Completion Support!
+[15:50:48] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[15:50:48] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[15:50:48] [Server thread/INFO]: CONSOLE: Reload complete.
+[15:50:48] [Server thread/INFO]: Timings Reset
+[15:50:48] [Craft Scheduler Thread - 21 - Essentials/INFO]: [Essentials] Obteniendo información de versión...
+[15:50:48] [Craft Scheduler Thread - 19 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[15:50:48] [Craft Scheduler Thread - 19 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[15:50:48] [Craft Scheduler Thread - 19 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[15:50:48] [Craft Scheduler Thread - 19 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[15:50:48] [Craft Scheduler Thread - 19 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[15:50:48] [Craft Scheduler Thread - 19 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[15:50:48] [Craft Scheduler Thread - 19 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[15:50:48] [Craft Scheduler Thread - 19 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
+[15:50:48] [Craft Scheduler Thread - 19 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
+[15:50:48] [Craft Scheduler Thread - 19 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[15:50:48] [Craft Scheduler Thread - 19 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[15:50:48] [Craft Scheduler Thread - 19 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[15:50:48] [Craft Scheduler Thread - 19 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[15:50:48] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 287 total sources
+[15:50:48] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[15:50:48] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[15:50:48] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[15:50:48] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[15:50:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5233ms or 104 ticks behind
+[15:51:09] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[15:51:13] [Server thread/INFO]: Plugins (6): AuraMobs, AuraSkills, Essentials, LuckPerms, PlaceholderAPI, SkinsRestorer

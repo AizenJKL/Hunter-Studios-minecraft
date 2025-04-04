@@ -5,7 +5,7 @@ skills:
     xp: 0.0
   auraskills/mining:
     level: 0
-    xp: 84.70000000000012
+    xp: 86.70000000000014
   auraskills/defense:
     level: 0
     xp: 32.0
@@ -13,8 +13,8 @@ skills:
     level: 0
     xp: 0.0
   auraskills/fighting:
-    level: 0
-    xp: 73.72999999999999
+    level: 1
+    xp: 2.0099999999999625
   auraskills/agility:
     level: 2
     xp: 22.308720000000015

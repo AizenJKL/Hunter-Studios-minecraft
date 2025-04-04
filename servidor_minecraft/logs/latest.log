@@ -28,3 +28,176 @@
 [00:08:48] [Server thread/INFO]: xSoAizak issued server command: /skills
 [00:09:10] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 xSoAizak
 [00:09:10] [Server thread/INFO]: [megastride777: Teleported megastride777 to xSoAizak]
+[00:10:11] [Server thread/INFO]: xSoAizak issued server command: /gamemode survival megastride777
+[00:10:11] [Server thread/INFO]: [xSoAizak: Set megastride777's game mode to Survival Mode]
+[00:10:36] [Server thread/INFO]: xSoAizak was slain by megastride777
+[00:10:36] [Server thread/INFO]: megastride777 has made the advancement [Isn't It Iron Pick]
+[00:10:41] [Server thread/INFO]: Villager EntityVillager['Villager'/2751, uuid='152c4194-9eca-41cd-aa32-8e9711619b65', l='ServerLevel[world]', x=927.32, y=-32.00, z=-1774.49, cpos=[57, -111], tl=7032, v=true] died, message: 'Villager was slain by Lvl 1 | Zombie | ❤ 20/20'
+[00:10:42] [Server thread/INFO]: xSoAizak issued server command: /tp megastride777
+[00:10:42] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to megastride777]
+[00:11:12] [Server thread/INFO]: xSoAizak issued server command: /gamemode creative
+[00:11:12] [Server thread/INFO]: [xSoAizak: Set own game mode to Creative Mode]
+[00:11:21] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:11:21] [Server thread/INFO]: megastride777 fell out of the world
+[00:11:21] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:11:29] [Server thread/INFO]: megastride777 issued server command: /gamemode creative
+[00:11:29] [Server thread/INFO]: [megastride777: Set own game mode to Creative Mode]
+[00:11:38] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 CranwberryPower
+[00:11:38] [Server thread/INFO]: [megastride777: Teleported megastride777 to CranwberryPower]
+[00:12:00] [Server thread/INFO]: CranwberryPower has made the advancement [Hot Stuff]
+[00:12:04] [Server thread/INFO]: CranwberryPower has made the advancement [Diamonds!]
+[00:12:11] [User Authenticator #2/INFO]: UUID of player RekonTMR is 3db658d0-deac-3964-a4bc-c3c664ffdba9
+[00:12:11] [Server thread/INFO]: RekonTMR joined the game
+[00:12:11] [Server thread/INFO]: RekonTMR[/127.246.140.156:46281] logged in with entity id 4978 at ([world]8.5, 86.0, -38.5)
+[00:12:43] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 RekonTMR
+[00:12:43] [Server thread/INFO]: [megastride777: Teleported megastride777 to RekonTMR]
+[00:12:51] [Server thread/INFO]: megastride777 issued server command: /tp RekonTMR xSoAizak
+[00:12:51] [Server thread/INFO]: [megastride777: Teleported RekonTMR to xSoAizak]
+[00:13:00] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 RekonTMR
+[00:13:00] [Server thread/INFO]: [megastride777: Teleported megastride777 to RekonTMR]
+[00:13:07] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:13:07] [Server thread/INFO]: megastride777 fell out of the world
+[00:13:07] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:13:15] [Server thread/INFO]: megastride777 issued server command: /kill xSoAizak
+[00:13:15] [Server thread/INFO]: xSoAizak fell out of the world
+[00:13:15] [Server thread/INFO]: [megastride777: Killed xSoAizak]
+[00:13:15] [Server thread/INFO]: RekonTMR has made the advancement [Diamonds!]
+[00:13:15] [Server thread/INFO]: RekonTMR has made the advancement [Suit Up]
+[00:13:22] [Server thread/INFO]: xSoAizak issued server command: /tp megastride777
+[00:13:22] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to megastride777]
+[00:13:26] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:13:26] [Server thread/INFO]: megastride777 fell out of the world
+[00:13:26] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:13:32] [Server thread/INFO]: megastride777 issued server command: /kill xSoAizak
+[00:13:32] [Server thread/INFO]: xSoAizak fell out of the world
+[00:13:32] [Server thread/INFO]: [megastride777: Killed xSoAizak]
+[00:13:32] [Server thread/INFO]: xSoAizak issued server command: /tp RekonTMR
+[00:13:32] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to RekonTMR]
+[00:13:36] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:13:36] [Server thread/INFO]: megastride777 fell out of the world
+[00:13:36] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:13:38] [Server thread/INFO]: xSoAizak issued server command: /tp RekonTMR
+[00:13:38] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to RekonTMR]
+[00:13:43] [Server thread/INFO]: megastride777 issued server command: /kill xSoAizak
+[00:13:43] [Server thread/INFO]: xSoAizak fell out of the world
+[00:13:43] [Server thread/INFO]: [megastride777: Killed xSoAizak]
+[00:13:45] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:13:45] [Server thread/INFO]: megastride777 fell out of the world
+[00:13:45] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:13:46] [Server thread/INFO]: xSoAizak issued server command: /tp RekonTMR
+[00:13:46] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to RekonTMR]
+[00:13:52] [Server thread/INFO]: megastride777 issued server command: /kill xSoAizak
+[00:13:52] [Server thread/INFO]: xSoAizak fell out of the world
+[00:13:52] [Server thread/INFO]: [megastride777: Killed xSoAizak]
+[00:13:55] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:13:55] [Server thread/INFO]: megastride777 fell out of the world
+[00:13:55] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:13:56] [Server thread/INFO]: xSoAizak issued server command: /tp RekonTMR
+[00:13:56] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to RekonTMR]
+[00:14:04] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 xSoAizak
+[00:14:04] [Server thread/INFO]: [megastride777: Teleported megastride777 to xSoAizak]
+[00:14:07] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:07] [Server thread/INFO]: megastride777 fell out of the world
+[00:14:07] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:10] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:10] [Server thread/INFO]: megastride777 fell out of the world
+[00:14:10] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:11] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:11] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:12] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:12] [Server thread/INFO]: megastride777 fell out of the world
+[00:14:12] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:13] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:13] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:14] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:14] [Server thread/INFO]: megastride777 fell out of the world
+[00:14:14] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:15] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:15] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:15] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:15] [Server thread/INFO]: megastride777 fell out of the world
+[00:14:15] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:16] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:16] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:16] [Server thread/INFO]: RekonTMR has made the advancement [Cover Me with Diamonds]
+[00:14:17] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:17] [Server thread/INFO]: megastride777 fell out of the world
+[00:14:17] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:18] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:18] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:18] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:18] [Server thread/INFO]: megastride777 fell out of the world
+[00:14:18] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:19] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:19] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:20] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:20] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:21] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:21] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:22] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:22] [Server thread/INFO]: megastride777 fell out of the world
+[00:14:22] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:22] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:22] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:23] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:23] [Server thread/INFO]: megastride777 fell out of the world
+[00:14:23] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:24] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:24] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:24] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:24] [Server thread/INFO]: megastride777 fell out of the world
+[00:14:24] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:25] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:25] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:26] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:26] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:26] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
+[00:14:26] [Server thread/INFO]: [xSoAizak: Killed megastride777]
+[00:14:36] [Server thread/INFO]: RekonTMR tried to swim in lava to escape CranwberryPower
+[00:14:41] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 RekonTMR
+[00:14:41] [Server thread/INFO]: [megastride777: Teleported megastride777 to RekonTMR]
+[00:14:50] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 CranwberryPower
+[00:14:50] [Server thread/INFO]: [megastride777: Teleported megastride777 to CranwberryPower]
+[00:15:06] [Server thread/INFO]: megastride777 issued server command: /tp RekonTMR megastride777
+[00:15:06] [Server thread/INFO]: [megastride777: Teleported RekonTMR to megastride777]
+[00:15:29] [Server thread/INFO]: CranwberryPower tried to swim in lava to escape xSoAizak
+[00:15:29] [Server thread/INFO]: RekonTMR tried to swim in lava to escape xSoAizak
+[00:16:00] [Server thread/INFO]: xSoAizak issued server command: /tp xSoaizak
+[00:16:00] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to xSoAizak]
+[00:16:01] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 RekonTMR
+[00:16:01] [Server thread/INFO]: [megastride777: Teleported megastride777 to RekonTMR]
+[00:16:11] [Server thread/INFO]: xSoAizak issued server command: /tp megastride777 xSoAizak
+[00:16:11] [Server thread/INFO]: [xSoAizak: Teleported megastride777 to xSoAizak]
+[00:16:20] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 RekonTMR
+[00:16:20] [Server thread/INFO]: [megastride777: Teleported megastride777 to RekonTMR]
+[00:16:23] [Server thread/INFO]: xSoAizak issued server command: /tp CranwberryPower xsoaizak
+[00:16:23] [Server thread/INFO]: [xSoAizak: Teleported CranwberryPower to xSoAizak]
+[00:16:44] [Server thread/INFO]: xSoAizak issued server command: /gamemode survival megastride777
+[00:16:44] [Server thread/INFO]: [xSoAizak: Set megastride777's game mode to Survival Mode]
+[00:16:45] [Server thread/INFO]: megastride777 issued server command: /tp RekonTMR xSoAizak
+[00:16:45] [Server thread/INFO]: [megastride777: Teleported RekonTMR to xSoAizak]
+[00:16:47] [Server thread/INFO]: RekonTMR tried to swim in lava
+[00:17:02] [Server thread/INFO]: megastride777 issued server command: /tp RekonTMR CranwberryPower
+[00:17:02] [Server thread/INFO]: [megastride777: Teleported RekonTMR to CranwberryPower]
+[00:17:08] [Server thread/INFO]: CranwberryPower was slain by RekonTMR
+[00:17:18] [Server thread/INFO]: xSoAizak issued server command: /tp CranwberryPower xsoaizak
+[00:17:18] [Server thread/INFO]: [xSoAizak: Teleported CranwberryPower to xSoAizak]
+[00:17:22] [Server thread/INFO]: megastride777 issued server command: /tp CranwberryPower RekonTMR
+[00:17:22] [Server thread/INFO]: [megastride777: Teleported CranwberryPower to RekonTMR]
+[00:17:34] [Server thread/INFO]: RekonTMR was burnt to a crisp whilst fighting CranwberryPower
+[00:17:43] [Server thread/INFO]: megastride777 issued server command: /tp RekonTMR CranwberryPower
+[00:17:43] [Server thread/INFO]: [megastride777: Teleported RekonTMR to CranwberryPower]
+[00:17:47] [Server thread/INFO]: CranwberryPower tried to swim in lava to escape RekonTMR
+[00:17:57] [Server thread/INFO]: megastride777 issued server command: /tp CranwberryPower RekonTMR
+[00:17:57] [Server thread/INFO]: [megastride777: Teleported CranwberryPower to RekonTMR]
+[00:18:12] [Server thread/INFO]: megastride777 issued server command: /gamemode creative
+[00:18:12] [Server thread/INFO]: [megastride777: Set own game mode to Creative Mode]
+[00:18:35] [Server thread/INFO]: RekonTMR was slain by CranwberryPower
+[00:18:48] [Server thread/INFO]: xSoAizak issued server command: /gamemode survival
+[00:18:48] [Server thread/INFO]: [xSoAizak: Set own game mode to Survival Mode]
+[00:19:35] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 CranwberryPower
+[00:19:35] [Server thread/INFO]: [megastride777: Teleported megastride777 to CranwberryPower]
+[00:19:36] [Server thread/INFO]: xSoAizak issued server command: /gamemode creative
+[00:19:36] [Server thread/INFO]: [xSoAizak: Set own game mode to Creative Mode]
+[00:19:42] [Server thread/INFO]: megastride777 issued server command: /tp RekonTMR megastride777
+[00:19:42] [Server thread/INFO]: [megastride777: Teleported RekonTMR to megastride777]

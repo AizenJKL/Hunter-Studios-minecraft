@@ -156,3 +156,287 @@ Reason: Banned by an operator.
 [00:47:04] [Server thread/INFO]: xSoAizak issued server command: /help 7
 [00:47:10] [Server thread/INFO]: xSoAizak issued server command: /help 8
 [00:47:15] [Server thread/INFO]: xSoAizak issued server command: /help 9
+[00:47:21] [Server thread/INFO]: xSoAizak issued server command: /help 10
+[00:47:26] [Server thread/INFO]: xSoAizak issued server command: /help 11
+[00:47:30] [Server thread/INFO]: xSoAizak issued server command: /help 12
+[00:47:32] [Server thread/INFO]: xSoAizak issued server command: /help 13
+[00:47:34] [Server thread/INFO]: xSoAizak issued server command: /help 14
+[00:47:37] [Server thread/INFO]: xSoAizak issued server command: /help 15
+[00:47:39] [Server thread/INFO]: xSoAizak issued server command: /help 1
+[00:47:56] [Server thread/INFO]: xSoAizak issued server command: /gamemode creative
+[00:47:56] [Server thread/INFO]: [xSoAizak: Set own game mode to Creative Mode]
+[00:48:06] [Server thread/INFO]: xSoAizak issued server command: /banlist
+[00:48:17] [Server thread/INFO]: xSoAizak issued server command: /ban-ip
+[00:48:31] [Server thread/INFO]: xSoAizak issued server command: /ban megastride777
+[00:48:35] [User Authenticator #3/INFO]: UUID of player megastride777 is d2185c18-4d27-398d-bbaf-20c960d2869f
+[00:48:35] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@67543891[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@4aaf1867]},legacy=false] (/127.10.232.153:55215): You are banned from this server.
+Reason: Banned by an operator.
+[00:48:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@67543891[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@4aaf1867]},legacy=false] (/127.10.232.153:55215) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[00:48:45] [Server thread/INFO]: xSoAizak issued server command: /kick
+[00:48:54] [Server thread/INFO]: xSoAizak issued server command: /xp
+[00:49:03] [Server thread/INFO]: xSoAizak issued server command: /help 2
+[00:49:10] [Server thread/INFO]: xSoAizak issued server command: /help 3
+[00:49:19] [Server thread/INFO]: xSoAizak issued server command: /debug
+[00:49:21] [User Authenticator #3/INFO]: UUID of player megastride777 is d2185c18-4d27-398d-bbaf-20c960d2869f
+[00:49:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3f22d10[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@74999a7f]},legacy=false] (/127.10.232.153:43889): You are banned from this server.
+Reason: Banned by an operator.
+[00:49:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@3f22d10[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@74999a7f]},legacy=false] (/127.10.232.153:43889) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[00:49:25] [Server thread/INFO]: xSoAizak issued server command: /debug start
+[00:49:25] [Server thread/INFO]: [xSoAizak: Started tick profiling]
+[00:49:30] [Server thread/INFO]: xSoAizak issued server command: /debug stop
+[00:49:30] [Server thread/INFO]: [xSoAizak: Stopped tick profiling after 4.89 seconds and 98 ticks (20.04 ticks per second)]
+[00:49:39] [Server thread/INFO]: xSoAizak issued server command: /help
+[00:50:16] [Server thread/INFO]: xSoAizak issued server command: /minecraft:attribute
+[00:50:23] [User Authenticator #4/INFO]: UUID of player megastride777 is d2185c18-4d27-398d-bbaf-20c960d2869f
+[00:50:23] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@733d977d[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@5c3a80e3]},legacy=false] (/127.10.232.153:56405): You are banned from this server.
+Reason: Banned by an operator.
+[00:50:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@733d977d[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@5c3a80e3]},legacy=false] (/127.10.232.153:56405) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[00:50:49] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[00:50:55] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[00:51:00] [Server thread/INFO]: --------- Help: Index ---------------------------
+[00:51:00] [Server thread/INFO]: Use /help [n] to get page n of help.
+[00:51:00] [Server thread/INFO]: Aliases: Lists command aliases
+[00:51:00] [Server thread/INFO]: AuraMobs: All commands for AuraMobs
+[00:51:00] [Server thread/INFO]: AuraSkills: All commands for AuraSkills
+[00:51:00] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[00:51:00] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[00:51:00] [Server thread/INFO]: PlaceholderAPI: All commands for PlaceholderAPI
+[00:51:00] [Server thread/INFO]: SkinsRestorer: All commands for SkinsRestorer
+[00:51:00] [Server thread/INFO]: /abtoggle: Toggle your own action bar
+[00:51:00] [Server thread/INFO]: /advancement: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /agility: 
+[00:51:00] [Server thread/INFO]: /alchemy: 
+[00:51:00] [Server thread/INFO]: /archery: 
+[00:51:00] [Server thread/INFO]: /attribute: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /auramobs: 
+[00:51:00] [Server thread/INFO]: /ban: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /ban-ip: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /banlist: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /bossbar: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /clear: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /clone: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /data: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /datapack: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /debug: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /defense: 
+[00:51:00] [Server thread/INFO]: /deop: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /effect: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /enchant: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /enchanting: 
+[00:51:00] [Server thread/INFO]: /excavation: 
+[00:51:00] [Server thread/INFO]: /execute: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /experience: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /farming: 
+[00:51:00] [Server thread/INFO]: /fighting: 
+[00:51:00] [Server thread/INFO]: /fill: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /fishing: 
+[00:51:00] [Server thread/INFO]: /foraging: 
+[00:51:00] [Server thread/INFO]: /forceload: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /function: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /gamemode: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /gamerule: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /give: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /help: Shows the help menu
+[00:51:00] [Server thread/INFO]: /item: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /jfr: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /kick: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /kill: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /list: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /locate: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /locatebiome: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /loot: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /mana: Display your or another player's current and max mana
+[00:51:00] [Server thread/INFO]: /me: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /mining: 
+[00:51:00] [Server thread/INFO]: /msg: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /mspt: View server tick times
+[00:51:00] [Server thread/INFO]: /op: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /paper: Paper related commands
+[00:51:00] [Server thread/INFO]: /pardon: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /particle: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /perf: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /placefeature: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /placeholderapi: PlaceholderAPI Command
+[00:51:00] [Server thread/INFO]: /playsound: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[00:51:00] [Server thread/INFO]: /recipe: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+[00:51:00] [Server thread/INFO]: /restart: Restarts the server
+[00:51:00] [Server thread/INFO]: /save-all: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /save-off: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /save-on: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /say: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /schedule: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /seed: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /setblock: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /sk: Opens the Skills menu, where you can browse skills, progress, and abilities.
+[00:51:00] [Server thread/INFO]: /skill: Opens the Skills menu, where you can browse skills, progress, and abilities.
+[00:51:00] [Server thread/INFO]: /skillrank: Shows your skill rankings
+[00:51:00] [Server thread/INFO]: /skills: Opens the Skills menu, where you can browse skills, progress, and abilities.
+[00:51:00] [Server thread/INFO]: /skilltop: Shows the top players in a skill
+[00:51:00] [Server thread/INFO]: /skin: Changes your own skin.
+[00:51:00] [Server thread/INFO]: /skins: Opens the skins GUI.
+[00:51:00] [Server thread/INFO]: /skull: Gives you a skull.
+[00:51:00] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /spectate: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /spigot: Spigot related commands
+[00:51:00] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /sr: Admin commands for SkinsRestorer.
+[00:51:00] [Server thread/INFO]: /stats: Opens the Stats menu where you can see current stat levels and descriptions.
+[00:51:00] [Server thread/INFO]: /stop: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /summon: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /tag: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /team: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /teammsg: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /teleport: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /tell: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /time: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[00:51:00] [Server thread/INFO]: /title: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /tm: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /tp: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[00:51:00] [Server thread/INFO]: /trigger: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[00:51:00] [Server thread/INFO]: /w: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /weather: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[00:51:00] [Server thread/INFO]: /xp: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: --------- Help: Index ---------------------------
+[00:51:11] [Server thread/INFO]: Use /help [n] to get page n of help.
+[00:51:11] [Server thread/INFO]: Aliases: Lists command aliases
+[00:51:11] [Server thread/INFO]: AuraMobs: All commands for AuraMobs
+[00:51:11] [Server thread/INFO]: AuraSkills: All commands for AuraSkills
+[00:51:11] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[00:51:11] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[00:51:11] [Server thread/INFO]: PlaceholderAPI: All commands for PlaceholderAPI
+[00:51:11] [Server thread/INFO]: SkinsRestorer: All commands for SkinsRestorer
+[00:51:11] [Server thread/INFO]: /abtoggle: Toggle your own action bar
+[00:51:11] [Server thread/INFO]: /advancement: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /agility: 
+[00:51:11] [Server thread/INFO]: /alchemy: 
+[00:51:11] [Server thread/INFO]: /archery: 
+[00:51:11] [Server thread/INFO]: /attribute: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /auramobs: 
+[00:51:11] [Server thread/INFO]: /ban: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /ban-ip: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /banlist: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /bossbar: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /clear: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /clone: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /data: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /datapack: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /debug: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /defense: 
+[00:51:11] [Server thread/INFO]: /deop: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /effect: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /enchant: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /enchanting: 
+[00:51:11] [Server thread/INFO]: /excavation: 
+[00:51:11] [Server thread/INFO]: /execute: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /experience: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /farming: 
+[00:51:11] [Server thread/INFO]: /fighting: 
+[00:51:11] [Server thread/INFO]: /fill: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /fishing: 
+[00:51:11] [Server thread/INFO]: /foraging: 
+[00:51:11] [Server thread/INFO]: /forceload: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /function: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /gamemode: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /gamerule: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /give: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /help: Shows the help menu
+[00:51:11] [Server thread/INFO]: /item: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /jfr: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /kick: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /kill: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /list: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /locate: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /locatebiome: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /loot: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /mana: Display your or another player's current and max mana
+[00:51:11] [Server thread/INFO]: /me: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /mining: 
+[00:51:11] [Server thread/INFO]: /msg: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /mspt: View server tick times
+[00:51:11] [Server thread/INFO]: /op: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /paper: Paper related commands
+[00:51:11] [Server thread/INFO]: /pardon: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /particle: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /perf: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /placefeature: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /placeholderapi: PlaceholderAPI Command
+[00:51:11] [Server thread/INFO]: /playsound: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[00:51:11] [Server thread/INFO]: /recipe: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+[00:51:11] [Server thread/INFO]: /restart: Restarts the server
+[00:51:11] [Server thread/INFO]: /save-all: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /save-off: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /save-on: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /say: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /schedule: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /seed: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /setblock: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /sk: Opens the Skills menu, where you can browse skills, progress, and abilities.
+[00:51:11] [Server thread/INFO]: /skill: Opens the Skills menu, where you can browse skills, progress, and abilities.
+[00:51:11] [Server thread/INFO]: /skillrank: Shows your skill rankings
+[00:51:11] [Server thread/INFO]: /skills: Opens the Skills menu, where you can browse skills, progress, and abilities.
+[00:51:11] [Server thread/INFO]: /skilltop: Shows the top players in a skill
+[00:51:11] [Server thread/INFO]: /skin: Changes your own skin.
+[00:51:11] [Server thread/INFO]: /skins: Opens the skins GUI.
+[00:51:11] [Server thread/INFO]: /skull: Gives you a skull.
+[00:51:11] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /spectate: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /spigot: Spigot related commands
+[00:51:11] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /sr: Admin commands for SkinsRestorer.
+[00:51:11] [Server thread/INFO]: /stats: Opens the Stats menu where you can see current stat levels and descriptions.
+[00:51:11] [Server thread/INFO]: /stop: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /summon: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /tag: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /team: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /teammsg: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /teleport: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /tell: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /time: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[00:51:11] [Server thread/INFO]: /title: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /tm: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /tp: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[00:51:11] [Server thread/INFO]: /trigger: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[00:51:11] [Server thread/INFO]: /w: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /weather: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[00:51:11] [Server thread/INFO]: /xp: A Mojang provided command.
+[00:53:35] [Server thread/INFO]: xSoAizak lost connection: Disconnected
+[00:53:35] [Server thread/INFO]: xSoAizak left the game
+[00:55:56] [Server thread/INFO]: CranwberryPower lost connection: Disconnected
+[00:55:56] [Server thread/INFO]: CranwberryPower left the game

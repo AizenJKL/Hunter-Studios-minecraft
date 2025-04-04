@@ -61,6 +61,9 @@ world-settings:
   default:
     below-zero-generation-in-existing-chunks: true
     verbose: false
+    merge-radius:
+      exp: 3.0
+      item: 2.5
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -108,9 +111,6 @@ world-settings:
       villagers-active-for-panic: true
       tick-inactive-villagers: true
       ignore-spectators: false
-    merge-radius:
-      exp: 3.0
-      item: 2.5
     entity-tracking-range:
       players: 48
       animals: 48
@@ -156,9 +156,9 @@ world-settings:
     item-despawn-rate: 6000
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
+    hanging-tick-frequency: 100
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
-    hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false
     mob-spawn-range: 8

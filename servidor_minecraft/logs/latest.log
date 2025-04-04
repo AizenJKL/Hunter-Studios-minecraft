@@ -1,442 +1,68 @@
-[00:37:23] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:37:24] [Worker-Main-1/INFO]: Loaded 7 recipes
-[00:37:26] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[00:37:26] [Server thread/INFO]: Loading properties
-[00:37:26] [Server thread/INFO]: This server is running Paper version git-Paper-388 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: fc9ee65 on ver/1.18.2)
-[00:37:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:37:26] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:37:26] [Server thread/INFO]: Default game type: SURVIVAL
-[00:37:26] [Server thread/INFO]: Generating keypair
-[00:37:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:37:26] [Server thread/INFO]: Using epoll channel type
-[00:37:26] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:37:26] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:37:27] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
-[00:37:27] [Server thread/INFO]: [AuraSkills] Loading AuraSkills v2.2.8
-[00:37:27] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.6.1
-[00:37:27] [Server thread/INFO]: [AuraMobs] Loading AuraMobs v2.1.0
-[00:37:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:37:27] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
-[00:37:27] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[00:37:27] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.18.2[32;1m.[0;39m
-[00:37:28] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[00:37:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.6.1]
-[00:37:28] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
-[00:37:28] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
-[00:37:28] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
-[00:37:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:37:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:37:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:37:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:37:28] [Server thread/INFO]: Preparing level "world"
-[00:37:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:37:32] [Server thread/INFO]: Time elapsed: 389 ms
-[00:37:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:37:32] [Server thread/INFO]: Time elapsed: 249 ms
-[00:37:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:37:33] [Server thread/INFO]: Time elapsed: 191 ms
-[00:37:33] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[00:37:33] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[00:37:33] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.8
-[00:37:34] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
-[00:37:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: auraskills [2.2.8]
-[00:37:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: aureliumskills [2.2.8]
-[00:37:34] [Server thread/INFO]: [AuraSkills] Successfully registered hook PlaceholderAPI
-[00:37:34] [Server thread/INFO]: [AuraSkills] Loaded 151 config options in 14 ms
-[00:37:34] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_18_R2! Trying to find NMS support
-[00:37:34] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_18_R2' loaded!
-[00:37:34] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
-[00:37:34] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
-[00:37:34] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
-[00:37:35] [Server thread/INFO]: [AuraMobs] Enabling AuraMobs v2.1.0
-[00:37:35] [Server thread/INFO]: [AuraMobs] Loaded 4 message files
-[00:37:35] [Server thread/INFO]: [AuraMobs] [ACF] Enabled Asynchronous Tab Completion Support!
-[00:37:35] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[00:37:35] [Server thread/INFO]: Running delayed init tasks
-[00:37:36] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 287 total sources
-[00:37:36] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
-[00:37:36] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
-[00:37:36] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
-[00:37:36] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[00:37:36] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[00:37:36] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[00:37:36] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[00:37:36] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[00:37:36] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[00:37:36] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[00:37:36] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.6.1[0;39m
-[00:37:36] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m8687003[0;39m
-[00:37:36] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[00:37:36] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[00:37:36] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[00:37:36] [Craft Scheduler Thread - 2 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[00:37:36] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
-[00:37:36] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[00:37:36] [Server thread/INFO]: Done (10.345s)! For help, type "help"
-[00:37:36] [Server thread/INFO]: Timings Reset
-[00:37:42] [Server thread/WARN]: UUID of added entity already exists: EntityChicken['Chicken'/52, uuid='7012a177-0a40-4471-9948-45fb882d54dd', l='ServerLevel[world]', x=55.47, y=95.00, z=-13.55, cpos=[3, -1], tl=10339, v=false]
-[00:37:44] [User Authenticator #1/INFO]: UUID of player CranwberryPower is 52b6c73b-0d35-3522-adb8-84f538abbf0d
-[00:37:44] [Server thread/INFO]: CranwberryPower joined the game
-[00:37:44] [Server thread/INFO]: CranwberryPower[/127.133.79.236:36511] logged in with entity id 84 at ([world]-13.18888209222765, 131.0, -55.58325043028237)
-[00:37:55] [User Authenticator #1/INFO]: UUID of player xSoAizak is 623c874b-6d89-356a-a9c3-87b66d03fb8d
-[00:37:55] [Server thread/INFO]: xSoAizak joined the game
-[00:37:55] [Server thread/INFO]: xSoAizak[/127.221.130.119:42143] logged in with entity id 259 at ([world]98.96677920609616, 95.0, 67.50943720331618)
-[00:38:19] [Server thread/INFO]: xSoAizak issued server command: /tp CranwberryPower
-[00:38:19] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to CranwberryPower]
-[00:38:27] [User Authenticator #1/INFO]: UUID of player megastride777 is d2185c18-4d27-398d-bbaf-20c960d2869f
-[00:38:27] [Server thread/INFO]: megastride777 joined the game
-[00:38:27] [Server thread/INFO]: megastride777[/127.10.232.153:47497] logged in with entity id 568 at ([world]-4.762811192473697, 131.0, -46.82971564642318)
-[00:38:48] [Server thread/INFO]: xSoAizak issued server command: /gamemode survival megastride777
-[00:38:48] [Server thread/INFO]: [xSoAizak: Set megastride777's game mode to Survival Mode]
-[00:38:51] [Server thread/INFO]: xSoAizak fell from a high place
-[00:38:55] [Server thread/INFO]: xSoAizak issued server command: /tp CranwberryPower
-[00:38:55] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to CranwberryPower]
-[00:39:31] [Server thread/INFO]: CranwberryPower was slain by xSoAizak
-[00:39:54] [Server thread/INFO]: xSoAizak issued server command: /tp CranwberryPower
-[00:39:54] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to CranwberryPower]
-[00:39:55] [Server thread/INFO]: xSoAizak fell from a high place
-[00:40:07] [Server thread/INFO]: xSoAizak issued server command: /tp megastride777
-[00:40:07] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to megastride777]
-[00:40:13] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
-[00:40:13] [Server thread/INFO]: megastride777 fell out of the world
-[00:40:13] [Server thread/INFO]: [xSoAizak: Killed megastride777]
-[00:40:14] [Server thread/INFO]: xSoAizak fell from a high place
-[00:40:19] [Server thread/INFO]: xSoAizak issued server command: /tp megastride777
-[00:40:19] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to megastride777]
-[00:40:20] [Server thread/INFO]: megastride777 issued server command: /gamemode creative
-[00:40:20] [Server thread/INFO]: [megastride777: Set own game mode to Creative Mode]
-[00:40:34] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 CranwberryPower
-[00:40:34] [Server thread/INFO]: [megastride777: Teleported megastride777 to CranwberryPower]
-[00:42:36] [Server thread/INFO]: xSoAizak issued server command: /tp megastride777
-[00:42:36] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to megastride777]
-[00:43:24] [Server thread/INFO]: xSoAizak issued server command: /kill megastride777
-[00:43:24] [Server thread/INFO]: megastride777 fell out of the world
-[00:43:24] [Server thread/INFO]: [xSoAizak: Killed megastride777]
-[00:43:34] [Server thread/INFO]: megastride777 issued server command: /kill xSoAizak
-[00:43:34] [Server thread/INFO]: xSoAizak fell out of the world
-[00:43:34] [Server thread/INFO]: [megastride777: Killed xSoAizak]
-[00:43:57] [Server thread/INFO]: xSoAizak issued server command: /tp CranwberryPower
-[00:43:57] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to CranwberryPower]
-[00:46:03] [Server thread/INFO]: xSoAizak issued server command: /ban megastride777
-[00:46:03] [Server thread/INFO]: [xSoAizak: Banned megastride777: Banned by an operator.]
-[00:46:03] [Server thread/INFO]: megastride777 lost connection: You are banned from this server
-[00:46:03] [Server thread/INFO]: megastride777 left the game
-[00:46:11] [User Authenticator #2/INFO]: UUID of player megastride777 is d2185c18-4d27-398d-bbaf-20c960d2869f
-[00:46:11] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4b7d8ffb[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@7ac22ece]},legacy=false] (/127.10.232.153:46227): You are banned from this server.
-Reason: Banned by an operator.
-[00:46:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b7d8ffb[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@7ac22ece]},legacy=false] (/127.10.232.153:46227) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[00:46:15] [User Authenticator #2/INFO]: UUID of player megastride777 is d2185c18-4d27-398d-bbaf-20c960d2869f
-[00:46:15] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@58a03796[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@656a4ccd]},legacy=false] (/127.10.232.153:53171): You are banned from this server.
-Reason: Banned by an operator.
-[00:46:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@58a03796[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@656a4ccd]},legacy=false] (/127.10.232.153:53171) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[00:46:18] [Server thread/INFO]: xSoAizak issued server command: /banlist
-[00:46:22] [User Authenticator #2/INFO]: UUID of player megastride777 is d2185c18-4d27-398d-bbaf-20c960d2869f
-[00:46:22] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2c39ed2e[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@6a7f6c43]},legacy=false] (/127.10.232.153:38861): You are banned from this server.
-Reason: Banned by an operator.
-[00:46:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@2c39ed2e[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@6a7f6c43]},legacy=false] (/127.10.232.153:38861) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[00:46:30] [Server thread/INFO]: xSoAizak issued server command: /help
-[00:46:30] [User Authenticator #2/INFO]: UUID of player megastride777 is d2185c18-4d27-398d-bbaf-20c960d2869f
-[00:46:30] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3037b0a1[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@7e6e263b]},legacy=false] (/127.10.232.153:57673): You are banned from this server.
-Reason: Banned by an operator.
-[00:46:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@3037b0a1[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@7e6e263b]},legacy=false] (/127.10.232.153:57673) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[00:46:36] [Server thread/INFO]: xSoAizak issued server command: /help 2
-[00:46:38] [User Authenticator #2/INFO]: UUID of player megastride777 is d2185c18-4d27-398d-bbaf-20c960d2869f
-[00:46:38] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@90aad7f[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@4aad09a0]},legacy=false] (/127.10.232.153:41333): You are banned from this server.
-Reason: Banned by an operator.
-[00:46:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@90aad7f[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@4aad09a0]},legacy=false] (/127.10.232.153:41333) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[00:46:43] [Server thread/INFO]: xSoAizak issued server command: /help 3
-[00:46:54] [Server thread/INFO]: xSoAizak issued server command: /help 4
-[00:46:57] [Server thread/INFO]: xSoAizak issued server command: /help 5
-[00:47:01] [Server thread/INFO]: xSoAizak issued server command: /help 6
-[00:47:04] [Server thread/INFO]: xSoAizak issued server command: /help 7
-[00:47:10] [Server thread/INFO]: xSoAizak issued server command: /help 8
-[00:47:15] [Server thread/INFO]: xSoAizak issued server command: /help 9
-[00:47:21] [Server thread/INFO]: xSoAizak issued server command: /help 10
-[00:47:26] [Server thread/INFO]: xSoAizak issued server command: /help 11
-[00:47:30] [Server thread/INFO]: xSoAizak issued server command: /help 12
-[00:47:32] [Server thread/INFO]: xSoAizak issued server command: /help 13
-[00:47:34] [Server thread/INFO]: xSoAizak issued server command: /help 14
-[00:47:37] [Server thread/INFO]: xSoAizak issued server command: /help 15
-[00:47:39] [Server thread/INFO]: xSoAizak issued server command: /help 1
-[00:47:56] [Server thread/INFO]: xSoAizak issued server command: /gamemode creative
-[00:47:56] [Server thread/INFO]: [xSoAizak: Set own game mode to Creative Mode]
-[00:48:06] [Server thread/INFO]: xSoAizak issued server command: /banlist
-[00:48:17] [Server thread/INFO]: xSoAizak issued server command: /ban-ip
-[00:48:31] [Server thread/INFO]: xSoAizak issued server command: /ban megastride777
-[00:48:35] [User Authenticator #3/INFO]: UUID of player megastride777 is d2185c18-4d27-398d-bbaf-20c960d2869f
-[00:48:35] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@67543891[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@4aaf1867]},legacy=false] (/127.10.232.153:55215): You are banned from this server.
-Reason: Banned by an operator.
-[00:48:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@67543891[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@4aaf1867]},legacy=false] (/127.10.232.153:55215) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[00:48:45] [Server thread/INFO]: xSoAizak issued server command: /kick
-[00:48:54] [Server thread/INFO]: xSoAizak issued server command: /xp
-[00:49:03] [Server thread/INFO]: xSoAizak issued server command: /help 2
-[00:49:10] [Server thread/INFO]: xSoAizak issued server command: /help 3
-[00:49:19] [Server thread/INFO]: xSoAizak issued server command: /debug
-[00:49:21] [User Authenticator #3/INFO]: UUID of player megastride777 is d2185c18-4d27-398d-bbaf-20c960d2869f
-[00:49:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3f22d10[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@74999a7f]},legacy=false] (/127.10.232.153:43889): You are banned from this server.
-Reason: Banned by an operator.
-[00:49:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@3f22d10[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@74999a7f]},legacy=false] (/127.10.232.153:43889) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[00:49:25] [Server thread/INFO]: xSoAizak issued server command: /debug start
-[00:49:25] [Server thread/INFO]: [xSoAizak: Started tick profiling]
-[00:49:30] [Server thread/INFO]: xSoAizak issued server command: /debug stop
-[00:49:30] [Server thread/INFO]: [xSoAizak: Stopped tick profiling after 4.89 seconds and 98 ticks (20.04 ticks per second)]
-[00:49:39] [Server thread/INFO]: xSoAizak issued server command: /help
-[00:50:16] [Server thread/INFO]: xSoAizak issued server command: /minecraft:attribute
-[00:50:23] [User Authenticator #4/INFO]: UUID of player megastride777 is d2185c18-4d27-398d-bbaf-20c960d2869f
-[00:50:23] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@733d977d[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@5c3a80e3]},legacy=false] (/127.10.232.153:56405): You are banned from this server.
-Reason: Banned by an operator.
-[00:50:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@733d977d[id=d2185c18-4d27-398d-bbaf-20c960d2869f,name=megastride777,properties={textures=[com.mojang.authlib.properties.Property@5c3a80e3]},legacy=false] (/127.10.232.153:56405) lost connection: You are banned from this server.
-Reason: Banned by an operator.
-[00:50:49] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[00:50:55] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[00:51:00] [Server thread/INFO]: --------- Help: Index ---------------------------
-[00:51:00] [Server thread/INFO]: Use /help [n] to get page n of help.
-[00:51:00] [Server thread/INFO]: Aliases: Lists command aliases
-[00:51:00] [Server thread/INFO]: AuraMobs: All commands for AuraMobs
-[00:51:00] [Server thread/INFO]: AuraSkills: All commands for AuraSkills
-[00:51:00] [Server thread/INFO]: Bukkit: All commands for Bukkit
-[00:51:00] [Server thread/INFO]: Minecraft: All commands for Minecraft
-[00:51:00] [Server thread/INFO]: PlaceholderAPI: All commands for PlaceholderAPI
-[00:51:00] [Server thread/INFO]: SkinsRestorer: All commands for SkinsRestorer
-[00:51:00] [Server thread/INFO]: /abtoggle: Toggle your own action bar
-[00:51:00] [Server thread/INFO]: /advancement: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /agility: 
-[00:51:00] [Server thread/INFO]: /alchemy: 
-[00:51:00] [Server thread/INFO]: /archery: 
-[00:51:00] [Server thread/INFO]: /attribute: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /auramobs: 
-[00:51:00] [Server thread/INFO]: /ban: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /ban-ip: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /banlist: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /bossbar: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /clear: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /clone: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /data: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /datapack: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /debug: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /defense: 
-[00:51:00] [Server thread/INFO]: /deop: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /difficulty: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /effect: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /enchant: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /enchanting: 
-[00:51:00] [Server thread/INFO]: /excavation: 
-[00:51:00] [Server thread/INFO]: /execute: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /experience: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /farming: 
-[00:51:00] [Server thread/INFO]: /fighting: 
-[00:51:00] [Server thread/INFO]: /fill: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /fishing: 
-[00:51:00] [Server thread/INFO]: /foraging: 
-[00:51:00] [Server thread/INFO]: /forceload: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /function: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /gamemode: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /gamerule: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /give: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /help: Shows the help menu
-[00:51:00] [Server thread/INFO]: /item: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /jfr: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /kick: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /kill: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /list: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /locate: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /locatebiome: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /loot: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /mana: Display your or another player's current and max mana
-[00:51:00] [Server thread/INFO]: /me: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /mining: 
-[00:51:00] [Server thread/INFO]: /msg: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /mspt: View server tick times
-[00:51:00] [Server thread/INFO]: /op: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /paper: Paper related commands
-[00:51:00] [Server thread/INFO]: /pardon: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /particle: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /perf: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /placefeature: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /placeholderapi: PlaceholderAPI Command
-[00:51:00] [Server thread/INFO]: /playsound: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
-[00:51:00] [Server thread/INFO]: /recipe: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
-[00:51:00] [Server thread/INFO]: /restart: Restarts the server
-[00:51:00] [Server thread/INFO]: /save-all: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /save-off: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /save-on: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /say: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /schedule: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /scoreboard: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /seed: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /setblock: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /sk: Opens the Skills menu, where you can browse skills, progress, and abilities.
-[00:51:00] [Server thread/INFO]: /skill: Opens the Skills menu, where you can browse skills, progress, and abilities.
-[00:51:00] [Server thread/INFO]: /skillrank: Shows your skill rankings
-[00:51:00] [Server thread/INFO]: /skills: Opens the Skills menu, where you can browse skills, progress, and abilities.
-[00:51:00] [Server thread/INFO]: /skilltop: Shows the top players in a skill
-[00:51:00] [Server thread/INFO]: /skin: Changes your own skin.
-[00:51:00] [Server thread/INFO]: /skins: Opens the skins GUI.
-[00:51:00] [Server thread/INFO]: /skull: Gives you a skull.
-[00:51:00] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /spectate: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /spigot: Spigot related commands
-[00:51:00] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /sr: Admin commands for SkinsRestorer.
-[00:51:00] [Server thread/INFO]: /stats: Opens the Stats menu where you can see current stat levels and descriptions.
-[00:51:00] [Server thread/INFO]: /stop: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /stopsound: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /summon: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /tag: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /team: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /teammsg: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /teleport: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /tell: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /tellraw: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /time: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
-[00:51:00] [Server thread/INFO]: /title: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /tm: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /tp: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
-[00:51:00] [Server thread/INFO]: /trigger: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
-[00:51:00] [Server thread/INFO]: /w: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /weather: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /whitelist: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /worldborder: A Mojang provided command.
-[00:51:00] [Server thread/INFO]: /xp: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: --------- Help: Index ---------------------------
-[00:51:11] [Server thread/INFO]: Use /help [n] to get page n of help.
-[00:51:11] [Server thread/INFO]: Aliases: Lists command aliases
-[00:51:11] [Server thread/INFO]: AuraMobs: All commands for AuraMobs
-[00:51:11] [Server thread/INFO]: AuraSkills: All commands for AuraSkills
-[00:51:11] [Server thread/INFO]: Bukkit: All commands for Bukkit
-[00:51:11] [Server thread/INFO]: Minecraft: All commands for Minecraft
-[00:51:11] [Server thread/INFO]: PlaceholderAPI: All commands for PlaceholderAPI
-[00:51:11] [Server thread/INFO]: SkinsRestorer: All commands for SkinsRestorer
-[00:51:11] [Server thread/INFO]: /abtoggle: Toggle your own action bar
-[00:51:11] [Server thread/INFO]: /advancement: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /agility: 
-[00:51:11] [Server thread/INFO]: /alchemy: 
-[00:51:11] [Server thread/INFO]: /archery: 
-[00:51:11] [Server thread/INFO]: /attribute: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /auramobs: 
-[00:51:11] [Server thread/INFO]: /ban: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /ban-ip: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /banlist: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /bossbar: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /clear: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /clone: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /data: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /datapack: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /debug: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /defense: 
-[00:51:11] [Server thread/INFO]: /deop: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /difficulty: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /effect: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /enchant: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /enchanting: 
-[00:51:11] [Server thread/INFO]: /excavation: 
-[00:51:11] [Server thread/INFO]: /execute: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /experience: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /farming: 
-[00:51:11] [Server thread/INFO]: /fighting: 
-[00:51:11] [Server thread/INFO]: /fill: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /fishing: 
-[00:51:11] [Server thread/INFO]: /foraging: 
-[00:51:11] [Server thread/INFO]: /forceload: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /function: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /gamemode: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /gamerule: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /give: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /help: Shows the help menu
-[00:51:11] [Server thread/INFO]: /item: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /jfr: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /kick: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /kill: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /list: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /locate: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /locatebiome: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /loot: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /mana: Display your or another player's current and max mana
-[00:51:11] [Server thread/INFO]: /me: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /mining: 
-[00:51:11] [Server thread/INFO]: /msg: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /mspt: View server tick times
-[00:51:11] [Server thread/INFO]: /op: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /paper: Paper related commands
-[00:51:11] [Server thread/INFO]: /pardon: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /particle: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /perf: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /placefeature: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /placeholderapi: PlaceholderAPI Command
-[00:51:11] [Server thread/INFO]: /playsound: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
-[00:51:11] [Server thread/INFO]: /recipe: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
-[00:51:11] [Server thread/INFO]: /restart: Restarts the server
-[00:51:11] [Server thread/INFO]: /save-all: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /save-off: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /save-on: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /say: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /schedule: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /scoreboard: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /seed: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /setblock: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /sk: Opens the Skills menu, where you can browse skills, progress, and abilities.
-[00:51:11] [Server thread/INFO]: /skill: Opens the Skills menu, where you can browse skills, progress, and abilities.
-[00:51:11] [Server thread/INFO]: /skillrank: Shows your skill rankings
-[00:51:11] [Server thread/INFO]: /skills: Opens the Skills menu, where you can browse skills, progress, and abilities.
-[00:51:11] [Server thread/INFO]: /skilltop: Shows the top players in a skill
-[00:51:11] [Server thread/INFO]: /skin: Changes your own skin.
-[00:51:11] [Server thread/INFO]: /skins: Opens the skins GUI.
-[00:51:11] [Server thread/INFO]: /skull: Gives you a skull.
-[00:51:11] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /spectate: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /spigot: Spigot related commands
-[00:51:11] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /sr: Admin commands for SkinsRestorer.
-[00:51:11] [Server thread/INFO]: /stats: Opens the Stats menu where you can see current stat levels and descriptions.
-[00:51:11] [Server thread/INFO]: /stop: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /stopsound: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /summon: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /tag: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /team: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /teammsg: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /teleport: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /tell: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /tellraw: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /time: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
-[00:51:11] [Server thread/INFO]: /title: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /tm: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /tp: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
-[00:51:11] [Server thread/INFO]: /trigger: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
-[00:51:11] [Server thread/INFO]: /w: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /weather: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /whitelist: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /worldborder: A Mojang provided command.
-[00:51:11] [Server thread/INFO]: /xp: A Mojang provided command.
-[00:53:35] [Server thread/INFO]: xSoAizak lost connection: Disconnected
-[00:53:35] [Server thread/INFO]: xSoAizak left the game
-[00:55:56] [Server thread/INFO]: CranwberryPower lost connection: Disconnected
-[00:55:56] [Server thread/INFO]: CranwberryPower left the game
+[14:14:48] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:14:49] [Worker-Main-1/INFO]: Loaded 7 recipes
+[14:14:51] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[14:14:51] [Server thread/INFO]: Loading properties
+[14:14:51] [Server thread/INFO]: This server is running Paper version git-Paper-388 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: fc9ee65 on ver/1.18.2)
+[14:14:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:14:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:14:51] [Server thread/INFO]: Default game type: SURVIVAL
+[14:14:51] [Server thread/INFO]: Generating keypair
+[14:14:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:14:51] [Server thread/INFO]: Using epoll channel type
+[14:14:51] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:14:51] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[14:14:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:14:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:14:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:14:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:14:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:14:51] [Server thread/INFO]: Preparing level "world"
+[14:14:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:14:56] [Server thread/INFO]: Time elapsed: 388 ms
+[14:14:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:14:57] [Server thread/INFO]: Time elapsed: 213 ms
+[14:14:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:14:57] [Server thread/INFO]: Time elapsed: 222 ms
+[14:14:57] [Server thread/INFO]: Running delayed init tasks
+[14:14:57] [Server thread/INFO]: Done (6.193s)! For help, type "help"
+[14:14:57] [Server thread/INFO]: Timings Reset
+[14:15:14] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[14:15:14] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[14:15:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:15:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:15:14] [Server thread/INFO]: Loaded 7 recipes
+[14:15:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:15:15] [Server thread/INFO]: CONSOLE: Reload complete.
+[14:15:15] [Server thread/INFO]: Timings Reset
+[14:16:02] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[14:16:02] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[14:16:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:16:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:16:02] [Server thread/INFO]: Loaded 7 recipes
+[14:16:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:16:03] [Server thread/INFO]: CONSOLE: Reload complete.
+[14:16:03] [Server thread/INFO]: Timings Reset
+[14:16:09] [Server thread/INFO]: Plugins (0): 
+[14:16:12] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[14:16:12] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[14:16:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:16:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:16:13] [Server thread/INFO]: Loaded 7 recipes
+[14:16:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:16:13] [Server thread/INFO]: CONSOLE: Reload complete.
+[14:16:13] [Server thread/INFO]: Timings Reset
+[14:16:16] [Server thread/INFO]: Plugins (0): 
+[14:16:21] [Server thread/INFO]: Stopping the server
+[14:16:21] [Server thread/INFO]: Stopping server
+[14:16:21] [Server thread/INFO]: Saving players
+[14:16:21] [Server thread/INFO]: Saving worlds
+[14:16:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:16:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:16:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:16:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:16:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:16:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:16:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:16:23] [Server thread/INFO]: Flushing Chunk IO
+[14:16:23] [Server thread/INFO]: Closing Thread Pool
+[14:16:23] [Server thread/INFO]: Closing Server

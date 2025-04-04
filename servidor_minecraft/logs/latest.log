@@ -201,3 +201,39 @@
 [00:19:36] [Server thread/INFO]: [xSoAizak: Set own game mode to Creative Mode]
 [00:19:42] [Server thread/INFO]: megastride777 issued server command: /tp RekonTMR megastride777
 [00:19:42] [Server thread/INFO]: [megastride777: Teleported RekonTMR to megastride777]
+[00:19:59] [Server thread/INFO]: CranwberryPower was slain by megastride777
+[00:20:06] [Server thread/INFO]: RekonTMR has made the advancement [Monster Hunter]
+[00:20:08] [Server thread/INFO]: xSoAizak issued server command: /gamemode survival
+[00:20:08] [Server thread/INFO]: [xSoAizak: Set own game mode to Survival Mode]
+[00:20:10] [Server thread/INFO]: Named entity EntityZombieVillager['El maldito meggalodon'/2713, uuid='d45ac0d7-61a4-48e4-9d54-a9f28bee9fc7', l='ServerLevel[world]', x=978.61, y=-52.82, z=-1694.24, cpos=[61, -106], tl=18865, v=true] died: El maldito meggalodon was slain by megastride777
+[00:20:36] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 CranwberryPower
+[00:20:36] [Server thread/INFO]: [megastride777: Teleported megastride777 to CranwberryPower]
+[00:20:42] [Server thread/INFO]: megastride777 issued server command: /tp CranwberryPower RekonTMR
+[00:20:42] [Server thread/INFO]: [megastride777: Teleported CranwberryPower to RekonTMR]
+[00:20:48] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 CranwberryPower
+[00:20:48] [Server thread/INFO]: [megastride777: Teleported megastride777 to CranwberryPower]
+[00:21:03] [Server thread/INFO]: RekonTMR tried to swim in lava to escape megastride777
+[00:21:42] [Server thread/INFO]: CranwberryPower tried to swim in lava to escape megastride777
+[00:21:53] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 CranwberryPower
+[00:21:53] [Server thread/INFO]: [megastride777: Teleported megastride777 to CranwberryPower]
+[00:23:12] [Server thread/INFO]: megastride777 issued server command: /time set day
+[00:23:12] [Server thread/INFO]: [megastride777: Set the time to 1000]
+[00:23:17] [Server thread/INFO]: megastride777 issued server command: /tp megastride777 RekonTMR
+[00:23:17] [Server thread/INFO]: [megastride777: Teleported megastride777 to RekonTMR]
+[00:23:45] [Server thread/INFO]: megastride777 issued server command: /tp CranwberryPower megastride777
+[00:23:45] [Server thread/INFO]: [megastride777: Teleported CranwberryPower to megastride777]
+[00:24:02] [Server thread/INFO]: xSoAizak issued server command: /tp CranwberryPower
+[00:24:02] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to CranwberryPower]
+[00:24:29] [Server thread/INFO]: xSoAizak issued server command: /gamemode creative
+[00:24:29] [Server thread/INFO]: [xSoAizak: Set own game mode to Creative Mode]
+[00:24:39] [Server thread/INFO]: CranwberryPower drowned
+[00:25:36] [Server thread/INFO]: RekonTMR was slain by xSoAizak
+[00:25:53] [Server thread/INFO]: xSoAizak issued server command: /tp CranwberryPower
+[00:25:53] [Server thread/INFO]: [xSoAizak: Teleported xSoAizak to CranwberryPower]
+[00:26:01] [Server thread/INFO]: xSoAizak issued server command: /gamemode survival
+[00:26:01] [Server thread/INFO]: [xSoAizak: Set own game mode to Survival Mode]
+[00:29:35] [Server thread/INFO]: megastride777 issued server command: /tp CranwberryPower megastride777
+[00:29:35] [Server thread/INFO]: [megastride777: Teleported CranwberryPower to megastride777]
+[00:29:46] [Server thread/INFO]: megastride777 issued server command: /tp RekonTMR megastride777
+[00:29:46] [Server thread/INFO]: [megastride777: Teleported RekonTMR to megastride777]
+[00:30:03] [Server thread/INFO]: RekonTMR fell from a high place
